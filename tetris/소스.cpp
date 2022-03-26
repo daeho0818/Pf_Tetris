@@ -28,7 +28,7 @@ int preview;
 void Title();
 void Clear();
 void Delete_Initial();
-void Item(int a);
+void Item();
 void CurrentXY(int x, int y);
 void CursorOff(void);
 void CursorOn(void);
